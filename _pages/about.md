@@ -19,13 +19,19 @@ I am very fortunate to be advised by [Prof. Caiwei](https://mypage.cuhk.edu.cn/a
 Education
 ======
 The Chinese University of Hong Kong, Shenzhen
+
 Major in Applied Mathematics (Bachelor's Degree)                     2019-09 ~ 2023-06
+
 Relevant Courses: Linear Algebra/Ordinary Differential Equations/Data Structures/Machine Learning/Image Processing and Computer Vision/Optimization/Game Design and Development/Computer Graphics/Software Development
+
 Honors/Awards: Outstanding Student Assistant, 2019-2022; Second Prize in the National College Student Mathematics Modeling Competition (CUMCM) in Guangdong Province
 
 The Chinese University of Hong Kong, Shenzhen
+
 Major in Computer and Information Engineering (Mphil Master's Degree)                     2023-09 ~ Expected 2025-06
+
 Relevant Courses: Data Analysis/Advanced Wireless Transmission/Blockchain
+
 Academic Achievement: ACM-MM Second Author, "BranchClash: A Fully On-Chain Tower Defense Blockchain Game with New Collaboration Mechanism"
 
 Getting started
