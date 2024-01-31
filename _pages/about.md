@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "yueyao's academicpages"
+title: "Li yueyao's Academicpages"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
